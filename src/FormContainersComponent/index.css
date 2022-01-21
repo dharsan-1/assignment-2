@@ -1,0 +1,27 @@
+.containerDiv {
+  padding: 20px;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: white;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+}
+.para {
+  color: white;
+  background-color: green;
+  padding: 10px;
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  text-align: center;
+  border-radius: 25px;
+}
+.container-initial-name-pass {
+  color: white;
+}
+.rest-para {
+  color: white;
+}

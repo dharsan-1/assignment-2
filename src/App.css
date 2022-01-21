@@ -95,3 +95,11 @@ body {
   margin-left: 20px;
   padding: 20px;
 }
+.form-containers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: white;
+}
